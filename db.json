@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Falade Timilehin",
+      "email": "faladetimilehin@yahoo.comn",
+      "carName": "BMW 2023",
+      "carPlateNumber": "TTA192OGB",
+      "description": "Engineering ",
+      "phoneNumber": "08036459757",
+      "address": "70,alh otta ,Mushin , Lagos",
+      "date": "2020-03-20",
+      "payment": "100000",
+      "id": 1
+    },
+    {
+      "name": "Tolu Odueke",
+      "email": "todueke@yahoo.com",
+      "carName": "Toyota 2019",
+      "carPlateNumber": "BPA823EPE",
+      "description": "Changing of Tires",
+      "phoneNumber": "08092872822",
+      "address": "1004,Housing Estate, Lagos",
+      "date": "2020-03-20",
+      "payment": "200000",
+      "id": 2
+    },
+    {
+      "name": "Fiyin Fabamwo",
+      "email": "fiyinfab@yahoo.com",
+      "carName": "Toyota Rav 4 ",
+      "carPlateNumber": "AAA192IKY",
+      "description": "Tester Tester",
+      "phoneNumber": "473945930032943",
+      "address": "Ireland ",
+      "date": "2020-03-20",
+      "payment": "80000",
+      "id": 3
+    },
+    {
+      "name": "Princess Dave-Akinremi",
+      "email": "Princess@gmail.com",
+      "carName": "Toyota Rav 4 ",
+      "carPlateNumber": "AAA192IKY",
+      "description": "Changing of Tires",
+      "phoneNumber": "08056939290",
+      "address": "Ajah Marshy hill estate",
+      "date": "2020-03-19",
+      "payment": "65000",
+      "id": 4
+    },
+    {
+      "name": "Tolu Odueke",
+      "email": "faladetimilehin@yahoo.comn",
+      "carName": "Toyota Rav 4 ",
+      "carPlateNumber": "AAA192IKY",
+      "description": "Engineering ",
+      "phoneNumber": "08036459757",
+      "address": "70,alh otta ,Mushin , Lagos",
+      "date": "2020-03-23",
+      "payment": "33333",
+      "id": 5
+    }
+  ]
+}
